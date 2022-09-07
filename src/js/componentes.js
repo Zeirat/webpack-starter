@@ -18,3 +18,5 @@ export const saludar = (nombre) => {
     // img.src = webpacklogo;
     // document.body.append(img);
 }
+
+saludar('Lucas');
